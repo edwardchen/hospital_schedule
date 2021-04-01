@@ -1,0 +1,27 @@
+td {
+  height: 200px;
+  min-width: 200px;
+  text-align: center;
+}
+
+th {
+  min-width: 200px;
+}
+
+
+.table-bordered td, .table-bordered th {
+  border: 1px solid #dee2e6;
+  vertical-align: top;
+}
+
+.holiday {
+  color: blue;
+}
+
+.vacation {
+  color: red;
+}
+
+.assigned {
+  color: green;
+}
